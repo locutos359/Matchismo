@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 Matthew Richman. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "CardGameAppDelegate.h"
 
 @implementation AppDelegate
 
